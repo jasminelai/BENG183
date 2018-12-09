@@ -49,7 +49,7 @@ The first application we are going to explore is separating asthma subjects into
 </p>
 <br>
 
-[Figure1](https://insights.ovid.com/pubmed?pmid=29045293). Clinical phenotypes of moderate–severe asthma derived from U-BIOPRED cohort from a cluster analysis of eight clinico-physiologic parameters. **Figure by Kian Fan Chung. Current Opinion in Pulmonary Medicine (2018).**
+>[Figure 1](https://insights.ovid.com/pubmed?pmid=29045293). Clinical phenotypes of moderate–severe asthma derived from U-BIOPRED cohort from a cluster analysis of eight clinico-physiologic parameters. **Figure by Kian Fan Chung. Current Opinion in Pulmonary Medicine (2018).**
 
 #### 2) Classification through Differential Gene Expression Analysis<a name="32"></a>
 
@@ -62,11 +62,14 @@ In a paper by Seumois et al. in The Journal of Immunology (2016), they aim to de
 </p>
 <br>
 
+>[Figure 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936908/). **Figure by Seumois et al. The Journal of Immunology (2016).**
 ## 4. Other Precision Medicine Examples<a name="4"></a>
 - [Breast Cancer](http://theoncologist.alphamedpress.org/content/14/4/320.short)
 - [Rheumatoid Arthritis](https://www.ncbi.nlm.nih.gov/pubmed/24589910)
+- [Diabetes](https://www.ncbi.nlm.nih.gov/pubmed/26802434)
+- [Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4828743/)
 
-# Referrence
+# Reference
 [1] (UCSF), UC San Francisco, director. What Is Precision Medicine? YouTube, YouTube, 2 Dec. 2015, www.youtube.com/watch?v=HQKFgfMO5Sw.<br>
 
 [2] Chung, Kian Fan. “Precision Medicine in Asthma.” Current Opinion in Pulmonary Medicine, vol. 24, no. 1, 1 Jan. 2018, pp. 4–10., doi:10.1097/mcp.0000000000000434.<br>
