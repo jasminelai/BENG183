@@ -1,35 +1,31 @@
-# 2.3 C-Techs (chromosome conformation capture)-coupled 
-1. [Introduction](#231)
-2. [Overivew of 3C methods](#232)<br>
-    2.1. [Specificity](#2321)<br>
-    2.2. [Through-put and resolution](#2322)
-3. [Hi-C](#233)
-4. [ChIA-PET](#234)
-5. [Selected methods comparison](#235)
+# Precision Medicine 
+1. [Introduction](#1)
+2. [Asthma](#2)<br>
+    2.1 [Application to Precision Medicine](#21)<br>
+    2.2 [subtitle2](#2322)
+3. [title 3](#233)
+4. [title 4](#234)
+5. [title 5](#235)
 
 
 
 
-## 2.3.1 Introduction<a name="231"></a>
+## 1. Introduction<a name="1"></a>
 
-The foundamental object of 3C(Chromosome Conformation Capture) techniques and 3C-derived methods is to understand the physical wiring diagram of the genome by identifying the physical interaction between chromosomes. 
+The reason why Precision Medicine is such a hot topic is because it essentially defines a new medical model; one that utilizes factors such as an individual's environment as well as there genetic makeup in order to determine medical decisions, practices, interventions, and products. It recognizes that a disease may be characterized by a similar set of symptoms - yet the mechanisms behind those symptoms may differ from person to person. 
 
-To capture the interaction (crosslink between strings), there are few steps in general:
-- Take a snapshot of the flowing cells - **Crosslink** with fixative agent (formaldehyde)
-- Zoom in on crosslinked part and exclude untangled parts - **Digested** with a restriction enzyme
-- Analyze the components come from the same chromatin - **Reverse crosslink** and **sequence**
-- Finish the jigsaw puzzle and get the results - **Align** the reads and **summarize** the contacts
+Here is a brief introductory video about the concept of Precision Medicine [1]:
 
-> Based on these general ideas, then we'll dive deeper by walking through two of the most popular  techniques and then briefly introduce some other methods. 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HQKFgfMO5Sw/0.jpg)](https://www.youtube.com/watch?v=HQKFgfMO5Sw)
 
-## 2.3.2 Overivew of 3C methods<a name="232"></a>
+## 2. Asthma<a name="2"></a>
 
 ![](/assets/1-s2.0-S1360138518300827-gr1b2_lrg.jpg)
 [Figure1](https://doi.org/10.1016/j.tplants.2018.03.014). Schematic Representation of Chromosome Conformation Capture (3C) and 3C-Derived Methods. These methods help to elucidate nuclear organization by detecting physical interactions between genetic elements located throughout the genome. Abbreviations: IP, immunoprecipitation; RE, restriction enzyme. **Figure by Sotelo-Silveira, Mariana, et al. Trends in Plant Science (2018).**
 
 To better understand the difference between these methods, I'd like to distingush them between the following couple of aspects:
 
-#### 1) Specificity - What does _one, all, many_ mean<a name="2321"></a>
+#### 1) Specificity - What does _one, all, many_ mean<a name="21"></a>
 ‘1’, ‘Many’ and ‘All’ indicate how many loci are interrogated in a given experiment. For example, ‘1 versus All’ indicates that the experiment probes the interaction profile between 1 locus and all other potential loci in the genome. ‘All versus All’ means that one can detect the interaction profiles of all loci, genome-wide, and their interactions with all other genomic loci [1].
 
 These kind of specificity is determined by the primer when people use **specific primers** before PCR. 
@@ -132,19 +128,19 @@ ChIA-PET is another method that combines ChIP and pair-end sequencing to analysi
 
 
 # Referrence
-[1] Schmitt, Anthony D., Ming Hu, and Bing Ren. "Genome-wide mapping and analysis of chromosome architecture." Nature reviews Molecular cell biology 17.12 (2016): 743.<br>
+[1] (UCSF), UC San Francisco, director. What Is Precision Medicine? YouTube, YouTube, 2 Dec. 2015, www.youtube.com/watch?v=HQKFgfMO5Sw.<br>
 
-[2] Risca, Viviana I., and William J. Greenleaf. "Unraveling the 3D genome: genomics tools for multiscale exploration." Trends in Genetics 31.7 (2015): 357-372.<br>
+[2] <br>
 
-[3] Dekker J, Rippe K, Dekker M, Kleckner N. Capturing chromosome conformation. Science 2002;295(5558):1306–11.<br>
+[3] Seumois, Grégory et al. “Transcriptional Profiling of Th2 Cells Identifies Pathogenic Features Associated with Asthma” Journal of immunology (Baltimore, Md. : 1950) vol. 197,2 (2016): 655-64. <br>
 
-[4] Simonis M, Klous P, Homminga I, Galjaard RJ, Rijkers EJ, Grosveld F, et al. High-res- olution identification of balanced and complex chromosomal rearrangements by 4C technology. Nature Methods 2009;6(11):837–42.<br>
+[4] <br>
 
-[5] Dostie J, Richmond TA, Arnaout RA, Selzer RR, Lee WL, Honan TA, et al. Chromo- some Conformation Capture Carbon Copy (5C): a massively parallel solution for mapping interactions between genomic elements. Genome Res 2006;16(10): 1299–309.<br>
+[5] <br>
 
-[6] Lieberman-Aiden E, van Berkum NL, Williams L, Imakaev M, Ragoczy T, Telling A, et al. Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Science 2009;326(5950):289–93.<br>
+[6] <br>
 
-[7] Fullwood, M.J. et al. (2009) An oestrogen-receptor-alpha-bound human chromatin interactome. Nature 462, 58–64.<br>
+[7] <br>
 
-[8] https://github.com/hms-dbmi/hic-data-analysis-bootcamp/blob/master/HiC-Protocol.pptx.
+[8] 
 
