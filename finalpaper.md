@@ -1,9 +1,9 @@
 # Precision Medicine 
 1. [Introduction](#1)
 2. [Asthma](#2)<br>
-3. [Precision Medicine in Asthma](#3)
-    3.1. Phenotypic Classification (#31)
-    3.2. Classification through Differential Gene Expression Analysis (#32)
+3. [Precision Medicine in Asthma](#3)<br>
+    3.1. [Phenotypic Classification](#31)<br>
+    3.2. [Classification through Differential Gene Expression Analysis](#32)
 4. [Other Precision Medicine Examples](#234)
 
 
