@@ -3,7 +3,7 @@
 2. [Asthma](#2)<br>
     2.1 [Application to Precision Medicine](#21)<br>
     2.2 [subtitle2](#2322)
-3. [title 3](#233)
+3. [Application to Precision Medicine](#3)
 4. [title 4](#234)
 5. [title 5](#235)
 
@@ -20,24 +20,18 @@ Here is a brief introductory video about the concept of Precision Medicine [1]:
 
 ## 2. Asthma<a name="2"></a>
 
-![](/assets/1-s2.0-S1360138518300827-gr1b2_lrg.jpg)
-[Figure1](https://doi.org/10.1016/j.tplants.2018.03.014). Schematic Representation of Chromosome Conformation Capture (3C) and 3C-Derived Methods. These methods help to elucidate nuclear organization by detecting physical interactions between genetic elements located throughout the genome. Abbreviations: IP, immunoprecipitation; RE, restriction enzyme. **Figure by Sotelo-Silveira, Mariana, et al. Trends in Plant Science (2018).**
 
-To better understand the difference between these methods, I'd like to distingush them between the following couple of aspects:
 
-#### 1) Specificity - What does _one, all, many_ mean<a name="21"></a>
-‘1’, ‘Many’ and ‘All’ indicate how many loci are interrogated in a given experiment. For example, ‘1 versus All’ indicates that the experiment probes the interaction profile between 1 locus and all other potential loci in the genome. ‘All versus All’ means that one can detect the interaction profiles of all loci, genome-wide, and their interactions with all other genomic loci [1].
 
-These kind of specificity is determined by the primer when people use **specific primers** before PCR. 
 
 #### 2) Through-put and resolution<a name="2322"></a>
 Hi-C techniques has the highest through-put (billion reads per sample) but suffering of a relative low resolution of 0.1-1Mb. However, the other methods usually have a higher resolution  around 1kb. For more details one can refer to table2 in [2].
 
-## 2.3.3 Hi-C<a name="233"></a>
-Hi-C is the highest through-put version of 3C-derived technologies. Due to the decreasing cost of 2nd generation sequencing, hi-c is widely used.
+## 3. Application to Precision Medicine<a name="3"></a>
+#### 1) Phenotype Classification<a name="21"></a>
 
-The principle of Hi-C can be illustrated as:
-![](/assets/hic.gif)
+![](/figure1.png)<br>
+[Figure1](https://insights.ovid.com/pubmed?pmid=29045293). Clinical phenotypes of moderate–severe asthma derived from U-BIOPRED cohort from a cluster analysis of eight clinico-physiologic parameters. **Figure by Kian Fan Chung. Current Opinion in Pulmonary Medicine (2018).**
 
 
 ##### Hi-C critical steps [8] 
@@ -130,7 +124,7 @@ ChIA-PET is another method that combines ChIP and pair-end sequencing to analysi
 # Referrence
 [1] (UCSF), UC San Francisco, director. What Is Precision Medicine? YouTube, YouTube, 2 Dec. 2015, www.youtube.com/watch?v=HQKFgfMO5Sw.<br>
 
-[2] <br>
+[2] Chung, Kian Fan. “Precision Medicine in Asthma.” Current Opinion in Pulmonary Medicine, vol. 24, no. 1, 1 Jan. 2018, pp. 4–10., doi:10.1097/mcp.0000000000000434.<br>
 
 [3] Seumois, Grégory et al. “Transcriptional Profiling of Th2 Cells Identifies Pathogenic Features Associated with Asthma” Journal of immunology (Baltimore, Md. : 1950) vol. 197,2 (2016): 655-64. <br>
 
