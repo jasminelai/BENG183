@@ -16,6 +16,7 @@ Here is a brief introductory video about the concept of Precision Medicine [1]:
 [![What is Precision Medicine?](https://img.youtube.com/vi/HQKFgfMO5Sw/0.jpg)](https://www.youtube.com/watch?v=HQKFgfMO5Sw)
 
 The characteristics of an individual that are important to Precision Medicine can be grouped into two categories.<br>
+
 **Genetics**
 > The genome sequence includes variations and mutations. The specific combination of these variations in an individual can lead to differences in the way a biological process occurs. For example, if a person has a mutation in a gene for a protein in a certain pathway, the pathway may not function properly and may lead to a disease.
 
