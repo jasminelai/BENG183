@@ -4,7 +4,7 @@
 3. [Precision Medicine in Asthma](#3)<br>
     3.1. [Phenotypic Classification](#31)<br>
     3.2. [Classification through Differential Gene Expression Analysis](#32)
-4. [Other Precision Medicine Examples](#234)
+4. [Other Precision Medicine Examples](#4)
 
 
 ## 1. Introduction<a name="1"></a>
@@ -30,7 +30,7 @@ Asthma is an allergic condition that affects the lungs, and is characterized by 
 [Source](https://www.webmd.com/asthma/ss/slideshow-asthma-overview).
 
 
-## 3. Application to Precision Medicine<a name="3"></a>
+## 3. Precision Medicine in Asthma<a name="3"></a>
 #### 1) Phenotype Classification<a name="31"></a>
 
 ![](/figure1.png)<br>
@@ -40,12 +40,7 @@ Asthma is an allergic condition that affects the lungs, and is characterized by 
 
 
 
-## 2.3.4 ChIA-PET<a name="234"></a> 
-ChIA-PET is another method that combines ChIP and pair-end sequencing to analysis the chromtin interaction. It allows for targeted binding factors such as: estrogen receptor alpha, CTCF-mediated loops, RNA polymerase II, and a combination of key architectural factors. on the one hand, it has the benefit of achieving a higher resolution compared to Hi-C, as only ligation products involving the immunoprecipitated molecule are sequenced, on the other hand, ChIA-PET has systematic biases due to ChIP process:
-- Only one type of binding factor selected
-- Different antibodies
-- ChIP conditions
-
+## 4. Other Precision Medicine Examples<a name="4"></a>
 
 # Referrence
 [1] (UCSF), UC San Francisco, director. What Is Precision Medicine? YouTube, YouTube, 2 Dec. 2015, www.youtube.com/watch?v=HQKFgfMO5Sw.<br>
@@ -55,12 +50,3 @@ ChIA-PET is another method that combines ChIP and pair-end sequencing to analysi
 [3] Pillai, Regina A., and William J. Calhoun. “Introduction to Asthma and Phenotyping.” Heterogeneity in Asthma Advances in Experimental Medicine and Biology, 2013, pp. 5–15., doi:10.1007/978-1-4614-8603-9_1. <br>
 
 [4] Seumois, Grégory et al. “Transcriptional Profiling of Th2 Cells Identifies Pathogenic Features Associated with Asthma” Journal of immunology (Baltimore, Md. : 1950) vol. 197,2 (2016): 655-64.<br>
-
-[5] <br>
-
-[6] <br>
-
-[7] <br>
-
-[8] 
-
