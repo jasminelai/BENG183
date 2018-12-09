@@ -12,8 +12,12 @@
 Precision Medicine essentially defines a new medical model; one that utilizes factors such as an individual's environment as well as there genetic makeup in order to determine medical decisions, practices, interventions, and products. It recognizes that a disease may be characterized by a similar set of symptoms - yet the mechanisms behind those symptoms may differ from person to person. 
 
 Here is a brief introductory video about the concept of Precision Medicine [1]:
-
-[![What is Precision Medicine?](https://img.youtube.com/vi/HQKFgfMO5Sw/0.jpg)](https://www.youtube.com/watch?v=HQKFgfMO5Sw)
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=HQKFgfMO5Sw">
+        <img src="https://img.youtube.com/vi/HQKFgfMO5Sw/0.jpg" alt="What is Precision Medicine?"/>
+    </a>
+</p>
+<br>
 
 The characteristics of an individual that are important to Precision Medicine can be grouped into two categories.<br>
 
@@ -27,7 +31,11 @@ The characteristics of an individual that are important to Precision Medicine ca
 
 Asthma is an allergic condition that affects the lungs, and is characterized by intermittent symptoms such as coughing, wheezing, and chest tightness [2]. In a normal lung, the muscles in the airway are smooth and relaxed. However, in an asthmatic subject, the muscles are tightened, swollened, or inflamed, leading to an increased production of mucus and obstruction of the airway. 
 
-![](/figure2.png)<br>
+<p align="center">
+    <img src="/figure2.png" width="400" height="302"/>
+</p>
+<br>
+
 [Source](https://www.webmd.com/asthma/ss/slideshow-asthma-overview).
 
 Studying asthma from a Precision Medicine lens is particularly important because researchers have contended that the disease is heterogeneous, and is largely affected by environmental variables [2]. With an estimated 300 million people that suffer from asthma, it is important to understand the different underlying mechanisms that cause the disease and treat individuals accordingly.
@@ -36,15 +44,27 @@ Studying asthma from a Precision Medicine lens is particularly important because
 #### 1) Phenotype Classification<a name="31"></a>
 
 The first application we are going to explore is separating asthma subjects into groups based on phenotype.
+<p align="center">
+    <img src="/figure1.png" width="400" height="435"/>
+</p>
+<br>
 
-![](/figure1.png)<br>
 [Figure1](https://insights.ovid.com/pubmed?pmid=29045293). Clinical phenotypes of moderate–severe asthma derived from U-BIOPRED cohort from a cluster analysis of eight clinico-physiologic parameters. **Figure by Kian Fan Chung. Current Opinion in Pulmonary Medicine (2018).**
 
 #### 2) Classification through Differential Gene Expression Analysis<a name="32"></a>
 
-Beyond just looking at phenotype, we can go a step further
+Beyond just looking at phenotype, we can go a step further by using Bioinformatic techniques such as RNA-seq. 
+
+In a paper by Seumois et al. in The Journal of Immunology (2016), they aim to determine differentially expressed genes between asthma and rhinitis. 
+
+<p align="center">
+    <img src="/figure3.png" width="600" height="595"/>
+</p>
+<br>
 
 ## 4. Other Precision Medicine Examples<a name="4"></a>
+- [Breast Cancer](http://theoncologist.alphamedpress.org/content/14/4/320.short)
+- [Rheumatoid Arthritis](https://www.ncbi.nlm.nih.gov/pubmed/24589910)
 
 # Referrence
 [1] (UCSF), UC San Francisco, director. What Is Precision Medicine? YouTube, YouTube, 2 Dec. 2015, www.youtube.com/watch?v=HQKFgfMO5Sw.<br>
