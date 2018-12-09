@@ -30,16 +30,19 @@ Asthma is an allergic condition that affects the lungs, and is characterized by 
 ![](/figure2.png)<br>
 [Source](https://www.webmd.com/asthma/ss/slideshow-asthma-overview).
 
+Studying asthma from a Precision Medicine lens is particularly important because researchers have contended that the disease is heterogeneous, and is largely affected by environmental variables [2]. With an estimated 300 million people that suffer from asthma, it is important to understand the different underlying mechanisms that cause the disease and treat individuals accordingly.
 
 ## 3. Precision Medicine in Asthma<a name="3"></a>
 #### 1) Phenotype Classification<a name="31"></a>
+
+The first application we are going to explore is separating asthma subjects into groups based on phenotype.
 
 ![](/figure1.png)<br>
 [Figure1](https://insights.ovid.com/pubmed?pmid=29045293). Clinical phenotypes of moderate–severe asthma derived from U-BIOPRED cohort from a cluster analysis of eight clinico-physiologic parameters. **Figure by Kian Fan Chung. Current Opinion in Pulmonary Medicine (2018).**
 
 #### 2) Classification through Differential Gene Expression Analysis<a name="32"></a>
 
-
+Beyond just looking at phenotype, we can go a step further
 
 ## 4. Other Precision Medicine Examples<a name="4"></a>
 
