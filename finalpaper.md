@@ -1,5 +1,5 @@
 # Precision Medicine 
-*Jasmine Lai, A12724439
+*Jasmine Lai, A12724439*
 
 1. [Introduction](#1)
 2. [Asthma](#2)<br>
