@@ -87,7 +87,7 @@ DESeq analysis found 500 genes differentially expressed between asthmatic subjec
 </p>
 <br>
 
->[Figure 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936908/). **Figure by Seumois et al. The Journal of Immunology (2016).**
+>[Figure 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936908/). A, Weighted gene co-expression network analysis (WGCNA) showing gene modules identified in Th2 cells. B, List of identified modules ordered by their t statistics. C, DESeq2 analysis showing pairwise comparison of gene expression between Th2 cells from healthy, rhinitis and asthmatic subjects. **Figure by Seumois et al. The Journal of Immunology (2016).**
 
 #### Summary 
 
