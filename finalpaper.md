@@ -9,7 +9,7 @@
 
 ## 1. Introduction<a name="1"></a>
 
-Precision Medicine essentially defines a new medical model; one that utilizes factors such as an individual's environment as well as there genetic makeup in order to determine medical decisions, practices, interventions, and products. It recognizes that a disease may be characterized by a similar set of symptoms - yet the mechanisms behind those symptoms may differ from person to person. 
+Precision Medicine defines a new medical model; one that utilizes factors such as an individual's environment as well as their genetic makeup in order to determine medical decisions, practices, interventions, and products. It recognizes that a disease may be characterized by a similar set of symptoms - yet the mechanisms behind those symptoms may differ from person to person. 
 
 Here is a brief introductory video about the concept of Precision Medicine [1]:
 <p align="center">
@@ -25,7 +25,7 @@ The characteristics of an individual that are important to Precision Medicine ca
 > The genome sequence includes variations and mutations. The specific combination of these variations in an individual can lead to differences in the way a biological process occurs. For example, if a person has a mutation in a gene for a protein in a certain pathway, the pathway may not function properly and may lead to a disease.
 
 **Environment**
-> Environmental factors, especially UV exposure and smoking cigarettes, may lead to mutations in the genome. The epigenome, which affects the expression of genes, is also shaped by an individual's environment.
+> Environmental factors, especially UV exposure and smoking cigarettes, may lead to mutations in the genome. The epigenome, which affects the expression of genes, is shaped by an individual's environment and also varies across individuals.
 
 ## 2. Asthma<a name="2"></a>
 
@@ -38,10 +38,10 @@ Asthma is an allergic condition that affects the lungs, and is characterized by 
 
 [Source](https://www.webmd.com/asthma/ss/slideshow-asthma-overview).
 
-Studying asthma from a Precision Medicine lens is particularly important because researchers have contended that the disease is heterogeneous, and is largely affected by environmental variables [2]. With an estimated 300 million people that suffer from asthma, it is important to understand the different underlying mechanisms that cause the disease and treat individuals accordingly.
+Studying asthma from a Precision Medicine lens is particularly important because researchers have contended that the disease is heterogeneous, with different underlying mechanisms and outcomes, and is largely affected by environmental variables [2]. With an estimated 300 million people that suffer from asthma, it is important to understand the differences between smaller subgroups of the disease, and treat individuals accordingly.
 
 ## 3. Precision Medicine in Asthma<a name="3"></a>
-#### 1) Phenotype Classification<a name="31"></a>
+### 1) Phenotype Classification<a name="31"></a>
 
 The first application we are going to explore is separating asthma subjects into groups based on phenotype.
 <p align="center">
@@ -51,11 +51,30 @@ The first application we are going to explore is separating asthma subjects into
 
 >[Figure 1](https://insights.ovid.com/pubmed?pmid=29045293). Clinical phenotypes of moderate–severe asthma derived from U-BIOPRED cohort from a cluster analysis of eight clinico-physiologic parameters. **Figure by Kian Fan Chung. Current Opinion in Pulmonary Medicine (2018).**
 
-#### 2) Classification through Differential Gene Expression Analysis<a name="32"></a>
+Here, we see that subjects were divided into four subgroups based on factors such as age, severity, smoker/non-smoker, number of exacerbations, etc. This model shows how researchers can begin to find treatments for smaller groups that fall under a larger umbrella disease. The hope is that a more tailored approach for each subgroup will be more effective than a generic treatment for all the groups combined. 
+
+### 2) Classification through Differential Gene Expression Analysis<a name="32"></a>
 
 Beyond just looking at phenotype, we can go a step further by using Bioinformatic techniques such as RNA-seq. 
 
 In a paper by Seumois et al. in The Journal of Immunology (2016), they aim to determine differentially expressed genes between asthma and rhinitis. 
+
+#### Background
+
+The two diseases studied, asthma and rhinitis, were chosen because they are both chronic allergic diseases, and they both involve a pathway that produces Th2 cells [4]. Because the underlying mechanism of two conditions are similar, the goal of the paper is to utilize RNA-seq methods to find what differences in gene expression separate the two diseases.
+
+#### RNA Sequencing Procedure
+
+The RNAseq procedure in this paper was the following:
+1. RNA Purification/Quantification (Qiagen,USA)
+2. RNA Amplification
+3. cDNA library preparation (Nextera XT, Illumina)
+4. Single end Sequencing (HiSeq2500 Illumina)
+5. Remove poor quality samples
+6. Generate Illumina sequencing libraries
+7. Map reads to reference
+
+#### Results
 
 <p align="center">
     <img src="/figure3.png" width="600" height="595"/>
@@ -63,6 +82,9 @@ In a paper by Seumois et al. in The Journal of Immunology (2016), they aim to de
 <br>
 
 >[Figure 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936908/). **Figure by Seumois et al. The Journal of Immunology (2016).**
+
+#### Summary 
+
 ## 4. Other Precision Medicine Examples<a name="4"></a>
 - [Breast Cancer](http://theoncologist.alphamedpress.org/content/14/4/320.short)
 - [Rheumatoid Arthritis](https://www.ncbi.nlm.nih.gov/pubmed/24589910)
