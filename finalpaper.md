@@ -34,9 +34,11 @@ Asthma is an allergic condition that affects the lungs, and is characterized by 
 <p align="center">
     <img src="/figure2.png" width="400" height="302"/>
 </p>
+<p align="center">
+    <a href="https://www.webmd.com/asthma/ss/slideshow-asthma-overview">Source</a>.
+</p>
 <br>
 
-[Source](https://www.webmd.com/asthma/ss/slideshow-asthma-overview).
 
 Studying asthma from a Precision Medicine lens is particularly important because researchers have contended that the disease is heterogeneous, with different underlying mechanisms and outcomes, and is largely affected by environmental variables [2]. With an estimated 300 million people that suffer from asthma, it is important to understand the differences between smaller subgroups of the disease, and treat individuals accordingly.
 
@@ -61,7 +63,7 @@ In a paper by Seumois et al. in The Journal of Immunology (2016), they aim to de
 
 #### Background
 
-The two diseases studied, asthma and rhinitis, were chosen because they are both chronic allergic diseases, and they both involve a pathway that produces Th2 cells [4]. Because the underlying mechanism of two conditions are similar, the goal of the paper is to utilize RNA-seq methods to find what differences in gene expression separate the two diseases.
+The two diseases studied, asthma and rhinitis, were chosen because they are both chronic allergic diseases, and they both involve a pathway that produces Th2 cells [4]. Because the underlying mechanism of two conditions are similar, the goal of the paper is to utilize RNA-seq methods to find what differences in gene expression separate the two diseases. For analysis, they performed negative binomial tests for pairwise comparisons employing the Bioconductor package DESeq2 to identify individual differentially expressed genes.
 
 #### RNA Sequencing Procedure
 
@@ -76,6 +78,10 @@ The RNAseq procedure in this paper was the following:
 
 #### Results
 
+A Weighted gene co-expression network analysis (WGCNA) identified a total of 15 distinct gene modules in Th2 cells. Between the asthmatic and healthy groups, two modules were up-regulated and three down-regulated in asthma.
+
+DESeq analysis found 500 genes differentially expressed between asthmatic subjects and healthy subjects The genes found are known to be for apoptosis, zinc transporters, MAPK, NF-κB, TNF, and others.
+
 <p align="center">
     <img src="/figure3.png" width="600" height="595"/>
 </p>
@@ -84,6 +90,8 @@ The RNAseq procedure in this paper was the following:
 >[Figure 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936908/). **Figure by Seumois et al. The Journal of Immunology (2016).**
 
 #### Summary 
+
+To address the question of how asthma and rhinitis differ, the paper found that genes that differentiate asthmatic from healthy subjects show an intermediate phenotype in allergic rhinitis subjects. Studies like these generate useful data that can be further used to study how subtypes of disease should be treated, and can be used to learn about the underlying mechanisms of disease.
 
 ## 4. Other Precision Medicine Examples<a name="4"></a>
 - [Breast Cancer](http://theoncologist.alphamedpress.org/content/14/4/320.short)
